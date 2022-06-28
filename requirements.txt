@@ -1,0 +1,5 @@
+py-cord
+python-dotenv
+pynacl
+discord-pretty-help
+steam
