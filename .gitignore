@@ -1,0 +1,13 @@
+# Environment variables
+.env
+
+# Python stuff
+.venv/
+__pycache__/
+
+# Text editors
+.vscode/
+.idea/
+
+# Venv
+Pipfile
